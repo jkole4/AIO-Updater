@@ -16,7 +16,7 @@ set rconip=0.0.0.0
 set rconport=0.0.0.0
 
 :: RCON Password
-set rconpassword=CHANGEME!!
+set rconpassword=CHANGEME!!!
 
 :: Rust+ app Port
 set appport=28083
